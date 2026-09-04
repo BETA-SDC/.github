@@ -1,0 +1,8 @@
+style: grid
+output: assets/members.svg
+members:
+  org: BETA-SDC
+grid:
+  columns: 4
+  avatar_size: 48
+  show_names: true
