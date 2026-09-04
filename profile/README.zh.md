@@ -1,7 +1,7 @@
 <table align="center" border="1" cellpadding="8" cellspacing="0">
   <tr>
     <td align="center">
-      <a href="./README.zh.md">中文</a> ｜ <a href="./README.md">English</a>
+      <strong>中文</strong> ｜ <a href="./README.md">English</a>
     </td>
   </tr>
 </table>

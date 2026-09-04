@@ -1,7 +1,7 @@
 <table align="center" border="1" cellpadding="8" cellspacing="0">
   <tr>
     <td align="center">
-      <a href="./README.zh.md">中文</a> ｜ <a href="./README.md">English</a>
+      <a href="./README.zh.md">中文</a> ｜ <strong>English</strong>
     </td>
   </tr>
 </table>
@@ -28,8 +28,4 @@
 
 <p align="center">
   This page will keep sharing Beta College updates, notices, and resources.
-</p>
-
-<p align="center">
-  中文版本: <a href="./README.zh.md">README.zh.md</a>
 </p>
