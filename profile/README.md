@@ -1,7 +1,10 @@
-<table align="center" border="1" cellpadding="8" cellspacing="0">
+<table align="center" cellpadding="0" cellspacing="0" border="1" style="border-collapse:separate;border-spacing:0;border-radius:10px;overflow:hidden;border-color:#d0d7de;">
   <tr>
-    <td align="center">
-      <a href="./README.zh.md">中文</a> ｜ <strong>English</strong>
+    <td align="center" bgcolor="#f6f8fa" style="padding:8px 18px;">
+      <a href="./README.zh.md" style="text-decoration:none;color:#0969da;">中文</a>
+    </td>
+    <td align="center" bgcolor="#0969da" style="padding:8px 18px;">
+      <strong><span style="color:#ffffff;">English</span></strong>
     </td>
   </tr>
 </table>
