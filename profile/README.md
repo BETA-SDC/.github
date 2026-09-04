@@ -10,7 +10,7 @@
 </p>
 
 <details open>
-<summary id="cn"><strong>中文</strong></summary>
+<summary id="cn"><strong>中文</strong> - 点击查看</summary>
 
 <p align="center">
   <a href="https://westlakeu.sharepoint.com/sites/beta-college" target="_blank" rel="noopener noreferrer">
@@ -35,7 +35,7 @@
 </details>
 
 <details>
-<summary id="en"><strong>English</strong></summary>
+<summary id="en"><strong>English</strong> - click to view</summary>
 
 <p align="center">
   <a href="https://westlakeu.sharepoint.com/sites/beta-college" target="_blank" rel="noopener noreferrer">
