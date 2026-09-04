@@ -17,6 +17,10 @@
   Beta 书院官方网页：<a href="https://westlakeu.sharepoint.com/sites/beta-college">westlakeu.sharepoint.com/sites/beta-college</a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/BETA-SDC/community/tree/main/members">更多了解我们</a>
+</p>
+
 <h3 align="center">成员</h3>
 
 <p align="center">
