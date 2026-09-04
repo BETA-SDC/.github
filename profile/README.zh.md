@@ -1,3 +1,11 @@
+<table align="center" border="1" cellpadding="8" cellspacing="0">
+  <tr>
+    <td align="center">
+      <a href="./README.zh.md">中文</a> ｜ <a href="./README.md">English</a>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=850&color=5BC0DE&center=true&vCenter=true&width=560&lines=欢迎来到Beta+SDC;这里是Beta书院的官方信息入口"
