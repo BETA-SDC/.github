@@ -10,10 +10,7 @@
 </table>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=850&color=5BC0DE&center=true&vCenter=true&width=560&lines=欢迎来到Beta+SDC"
-    alt="中文介绍"
-  />
+  <strong>欢迎来到 Beta SDC</strong>
 </p>
 
 <p align="center">
