@@ -30,10 +30,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/BETA-SDC/community/tree/main/members">More about us</a>
-</p>
-
-<p align="center">
   This page will keep sharing Beta College updates, notices, and resources.
 </p>
 
@@ -41,4 +37,8 @@
 
 <p align="center">
   <img src="../assets/members.svg" alt="Members" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/BETA-SDC/community/tree/main/members">More about us</a>
 </p>
