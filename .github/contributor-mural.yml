@@ -8,4 +8,4 @@ grid:
   avatar_size: 48
   margin: 24
   show_names: true
-  truncate: 0
+  truncate: 10
