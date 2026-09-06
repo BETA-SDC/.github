@@ -3,7 +3,8 @@ output: assets/members.svg
 members:
   org: BETA-SDC
 grid:
-  columns: 7
+  columns: auto
+  max_columns: 7
   avatar_size: 48
   margin: 16
   show_names: true
