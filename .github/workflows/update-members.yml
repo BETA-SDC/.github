@@ -22,5 +22,5 @@ jobs:
         uses: crystal-actions/contributor-mural@v1.3.0
         with:
           config: .github/contributor-mural.yml
-          token: ${{ github.token }}
+          token: ${{ secrets.READ_ORG_TOKEN }}
           commit_message: "Update members wall"

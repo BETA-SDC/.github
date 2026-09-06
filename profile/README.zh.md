@@ -24,5 +24,9 @@
 </p>
 
 <p align="center">
+  配置带有 `read:org` 权限的 `READ_ORG_TOKEN` 后，可包含非公开的组织成员。
+</p>
+
+<p align="center">
   <a href="https://github.com/BETA-SDC/community/tree/main/members">更多了解我们</a>
 </p>
