@@ -6,6 +6,6 @@ grid:
   columns: auto
   max_columns: 7
   avatar_size: 48
-  margin: 16
+  margin: 24
   show_names: true
   truncate: 0
