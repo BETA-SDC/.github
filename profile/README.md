@@ -40,9 +40,5 @@
 </p>
 
 <p align="center">
-  Set `READ_ORG_TOKEN` with `read:org` scope to include private organization members.
-</p>
-
-<p align="center">
   <a href="https://github.com/BETA-SDC/community/tree/main/members">More about us</a>
 </p>
