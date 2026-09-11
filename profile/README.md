@@ -33,6 +33,20 @@
   This page will keep sharing Beta College updates, notices, and resources.
 </p>
 
+<h3 align="center">Student Self-Development Committee (SDC)</h3>
+
+<p align="center">
+  SDC is Beta College's student organization for participating in college governance and development. SDC members are elected by college students, and the organization works through the Presidium and four departments.
+</p>
+
+<ul>
+  <li><strong>Presidium</strong>: organizes the college decision-making process, represents the college externally, and oversees the departments. Vice Chairpersons may act for the Chairperson when needed.</li>
+  <li><strong>Managing Department</strong>: handles student rights, institutional development, space management, and finances.</li>
+  <li><strong>Culture &amp; Publicity Department</strong>: develops college culture, documents its development, supports cultural integration, and manages external publicity and communication.</li>
+  <li><strong>Academic Department</strong>: supports the academic atmosphere and organizes academic activities.</li>
+  <li><strong>Events Department</strong>: organizes team-building activities, sports competitions, and artistic performances.</li>
+</ul>
+
 <h3 align="center">Members</h3>
 
 <p align="center">
