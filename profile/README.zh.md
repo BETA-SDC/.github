@@ -14,7 +14,23 @@
 </p>
 
 <p align="center">
-  Beta 书院官方网页：<a href="https://westlakeu.sharepoint.com/sites/beta-college">westlakeu.sharepoint.com/sites/beta-college</a>
+  <a href="https://westlakeu.sharepoint.com/sites/beta-college" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/Beta%20%E4%B9%A6%E9%99%A2-%E5%AE%98%E6%96%B9%E7%BD%91%E9%A1%B5-0B6DFF?style=for-the-badge&logo=Microsoft%20SharePoint&logoColor=white"
+      alt="Beta 书院官方网页"
+    />
+  </a>
+  <a href="https://beta-sdc.github.io/calendar/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/BETA%20%E6%97%A5%E5%8E%86-%E8%AE%A2%E9%98%85-1769AA?style=for-the-badge&logo=apple&logoColor=white"
+      alt="订阅 BETA 日历"
+    />
+  </a>
+</p>
+
+<p align="center">
+  Beta 书院官方网页：<a href="https://westlakeu.sharepoint.com/sites/beta-college">westlakeu.sharepoint.com/sites/beta-college</a><br>
+  BETA 日历订阅：<a href="https://beta-sdc.github.io/calendar/">beta-sdc.github.io/calendar</a>
 </p>
 
 <h3 align="center">学生自我发展委员会（SDC）</h3>

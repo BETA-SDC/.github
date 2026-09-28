@@ -23,10 +23,17 @@
       alt="Beta College official website"
     />
   </a>
+  <a href="https://beta-sdc.github.io/calendar/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/BETA%20Calendar-Subscribe-1769AA?style=for-the-badge&logo=apple&logoColor=white"
+      alt="Subscribe to the BETA calendar"
+    />
+  </a>
 </p>
 
 <p align="center">
-  Official website for Beta College: <a href="https://westlakeu.sharepoint.com/sites/beta-college">westlakeu.sharepoint.com/sites/beta-college</a>
+  Official website for Beta College: <a href="https://westlakeu.sharepoint.com/sites/beta-college">westlakeu.sharepoint.com/sites/beta-college</a><br>
+  BETA calendar subscription: <a href="https://beta-sdc.github.io/calendar/">beta-sdc.github.io/calendar</a>
 </p>
 
 <p align="center">
