@@ -13,8 +13,14 @@
   <strong>欢迎来到 Beta SDC</strong>
 </p>
 
-[![官网](https://img.shields.io/badge/website-Beta_College-0B6DFF)](https://westlakeu.sharepoint.com/sites/beta-college)
-[![日历订阅](https://img.shields.io/badge/calendar-BETA_Subscribe-0f766e)](https://beta-sdc.github.io/calendar/)
+<p align="center">
+  <a href="https://westlakeu.sharepoint.com/sites/beta-college">
+    <img src="https://img.shields.io/badge/website-Beta_College-0B6DFF" alt="官网">
+  </a>
+  <a href="https://beta-sdc.github.io/calendar/">
+    <img src="https://img.shields.io/badge/calendar-BETA_Subscribe-0f766e" alt="日历订阅">
+  </a>
+</p>
 
 <h3 align="center">学生自我发展委员会（SDC）</h3>
 

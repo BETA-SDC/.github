@@ -16,8 +16,14 @@
   />
 </p>
 
-[![Website](https://img.shields.io/badge/website-Beta_College-0B6DFF)](https://westlakeu.sharepoint.com/sites/beta-college)
-[![Calendar](https://img.shields.io/badge/calendar-BETA_Subscribe-0f766e)](https://beta-sdc.github.io/calendar/)
+<p align="center">
+  <a href="https://westlakeu.sharepoint.com/sites/beta-college">
+    <img src="https://img.shields.io/badge/website-Beta_College-0B6DFF" alt="Website">
+  </a>
+  <a href="https://beta-sdc.github.io/calendar/">
+    <img src="https://img.shields.io/badge/calendar-BETA_Subscribe-0f766e" alt="Calendar">
+  </a>
+</p>
 
 <p align="center">
   This page will keep sharing Beta College updates, notices, and resources.
